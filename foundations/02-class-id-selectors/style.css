@@ -1,0 +1,21 @@
+.SampleClass {
+  background-color: lightpink;
+  font-family:"Verdana","DejaVu Sans",sans-serif;
+}
+
+.Cooler {
+  font-size: 32px;
+}
+
+#SampleID {
+ 
+  color:blue;
+  font-size:36px;
+}
+
+#SecondSampleID {
+  font-weight: bold;
+  font-size: 24px;
+  background-color:lightgreen;
+
+}
